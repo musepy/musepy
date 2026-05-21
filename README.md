@@ -37,7 +37,7 @@ Designing for AI-native interfaces. Vibe-coding the rest.
 **Product Designer & Photographer** &middot; Shenzhen Kaiqi Health<br/>
 Post-surgical rehabilitation content; visual + UI for Xinzhongnian, Kaiqi Rehabilitation, Health Assessment apps; marketing material design.
 
-**Photographer (Freelance)** &middot; Shenzhen City Ballet<br/>
+**Photographer (Freelance)** &middot; C Ballet Arts<br/>
 Photographed children classes, masterclasses, stage performances, and portraits; interaction + UI design for the City Ballet WeChat mini-program (check-in, seat selection, schedules).
 
 **Graphic Designer** &middot; Shenzhen Bika International Travel<br/>
