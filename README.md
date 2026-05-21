@@ -38,7 +38,7 @@ Designing for AI-native interfaces. Vibe-coding the rest.
 Post-surgical rehabilitation content; visual + UI for Xinzhongnian, Kaiqi Rehabilitation, Health Assessment apps; marketing material design.
 
 **Photographer (Freelance)** &middot; Shenzhen City Ballet<br/>
-Lead photographer across multi-campus shoots; interaction + UI design for the City Ballet WeChat mini-program (check-in, seat selection, schedules).
+Photographed children classes, masterclasses, stage performances, and portraits; interaction + UI design for the City Ballet WeChat mini-program (check-in, seat selection, schedules).
 
 **Graphic Designer** &middot; Shenzhen Bika International Travel<br/>
 Visual design for outbound (70%) and domestic (30%) travel products — Japan, Southeast Asia, Eastern Europe; marketing for Mafengwo and Fliggy.
