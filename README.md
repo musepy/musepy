@@ -1,5 +1,3 @@
-## Pengxu Chen — 陈鹏旭
-
 Visual designer with seven years on brand, interface, and visual systems.
 Designing for AI-native interfaces. Vibe-coding the rest.
 
