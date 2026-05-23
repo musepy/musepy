@@ -7,9 +7,9 @@ Designing for AI-native interfaces. Vibe-coding the rest.
 
 ### Claude Code · this year so far
 
-[![Claude Code total usage](https://cdn.pengxu.work/usage/claude.svg)](https://pengxu-work.pages.dev)
+<a href="https://pengxu-work.pages.dev"><img src="https://cdn.pengxu.work/usage/claude.svg?v=2" alt="Claude Code total usage" width="100%" /></a>
 
-[![Claude Code daily heatmap](https://cdn.pengxu.work/usage/claude-heatmap.svg)](https://pengxu-work.pages.dev)
+<a href="https://pengxu-work.pages.dev"><img src="https://cdn.pengxu.work/usage/claude-heatmap.svg?v=2" alt="Claude Code daily heatmap" width="100%" /></a>
 
 <sub>Refreshed daily from local [ccusage](https://github.com/ryoppippi/ccusage) → Cloudflare R2.</sub>
 
