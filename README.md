@@ -61,7 +61,13 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-WakaTime weekly development data will appear here after the scheduled workflow runs.
+Last 7 days: 0 secs
+
+Languages
+No language data.
+
+Projects
+No project data.
 ```
 <!-- WAKATIME:END -->
 
