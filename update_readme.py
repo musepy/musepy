@@ -1,12 +1,14 @@
 import base64
 import json
 import os
+import urllib.parse
 import urllib.request
 from typing import Any
 
 
 README_PATH = os.environ.get("README_PATH", "README.md")
 WAKATIME_STATS_URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+WAKATIME_TIMEZONE = os.environ.get("WAKATIME_TIMEZONE", "Asia/Shanghai")
 START_FLAG = "<!-- WAKATIME:START -->"
 END_FLAG = "<!-- WAKATIME:END -->"
 
@@ -67,8 +69,9 @@ def replace_section(readme: str, section: str) -> str:
 
 def fetch_wakatime_stats(api_key: str) -> dict[str, Any]:
     token = base64.b64encode(api_key.encode()).decode()
+    url = WAKATIME_STATS_URL + "?" + urllib.parse.urlencode({"timezone": WAKATIME_TIMEZONE})
     request = urllib.request.Request(
-        WAKATIME_STATS_URL,
+        url,
         headers={"Authorization": f"Basic {token}"},
     )
     with urllib.request.urlopen(request, timeout=30) as response:
