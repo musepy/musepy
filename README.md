@@ -61,13 +61,21 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 0 secs
+Last 7 days: 2 hrs 47 mins
 
 Languages
-No language data.
+Markdown       1 hr 37 mins  [##########..........]  52.4%
+JavaScript     36 mins       [####................]  19.9%
+Other          18 mins       [##..................]   9.9%
+CSS            11 mins       [#...................]   6.2%
+Image (svg)    10 mins       [#...................]   5.4%
+HTML           7 mins        [#...................]   3.9%
 
 Projects
-No project data.
+visual KV s... 1 hr 54 mins  [############........]  61.6%
+musepy-muse... 28 mins       [###.................]  15.3%
+KV prompt      24 mins       [###.................]  13.2%
+musepy-profile 18 mins       [##..................]   9.9%
 ```
 <!-- WAKATIME:END -->
 
