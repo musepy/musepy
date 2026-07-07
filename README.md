@@ -61,23 +61,23 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 16 hrs 28 mins
+Last 7 days: 24 hrs 36 mins
 
 Languages
-Swift          8 hrs 21 mins [#########...........]  47.2%
-HTML           3 hrs 34 mins [####................]  20.2%
-Markdown       2 hrs 46 mins [###.................]  15.7%
-Other          1 hr 14 mins  [#...................]   7.0%
-JavaScript     37 mins       [#...................]   3.5%
-Python         27 mins       [#...................]   2.6%
+Swift          13 hrs 17 mins [##########..........]  50.8%
+HTML           5 hrs 34 mins [####................]  21.3%
+Markdown       3 hrs 24 mins [###.................]  13.0%
+Other          1 hr 32 mins  [#...................]   5.9%
+JavaScript     47 mins       [#...................]   3.0%
+Python         27 mins       [....................]   1.8%
 
 Projects
-anycast2.0     14 hrs 43 mins [#################...]  83.1%
-visual KV s... 1 hr 54 mins  [##..................]  10.7%
-KV prompt      31 mins       [#...................]   3.0%
-musepy-muse... 28 mins       [#...................]   2.7%
-Landmarks B... 3 mins        [....................]   0.3%
-musepy-profile 2 mins        [....................]   0.2%
+anycast2.0     22 hrs 45 mins [#################...]  87.0%
+visual KV s... 1 hr 54 mins  [#...................]   7.3%
+KV prompt      32 mins       [....................]   2.1%
+musepy-muse... 28 mins       [....................]   1.8%
+figma-ai-ge... 14 mins       [....................]   0.9%
+genable-plugin 9 mins        [....................]   0.6%
 ```
 <!-- WAKATIME:END -->
 
