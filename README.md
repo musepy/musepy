@@ -61,23 +61,23 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 36 hrs 14 mins
+Last 7 days: 38 hrs 7 mins
 
 Languages
-TypeScript     10 hrs 6 mins [#####...............]  27.1%
-Markdown       8 hrs 17 mins [####................]  22.3%
-Swift          7 hrs 56 mins [####................]  21.3%
-JSON           4 hrs 3 mins  [##..................]  10.9%
-YAML           1 hr 29 mins  [#...................]   4.0%
-Dart           1 hr 27 mins  [#...................]   3.9%
+TypeScript     9 hrs         [#####...............]  23.1%
+Swift          7 hrs 56 mins [####................]  20.3%
+Markdown       7 hrs 40 mins [####................]  19.6%
+Image (svg)    4 hrs 23 mins [##..................]  11.2%
+JSON           3 hrs 52 mins [##..................]   9.9%
+YAML           1 hr 29 mins  [#...................]   3.8%
 
 Projects
-genable-plugin 20 hrs 23 mins [###########.........]  54.8%
-anycast2.0     12 hrs 38 mins [#######.............]  34.0%
-anycast-flu... 2 hrs 12 mins [#...................]   5.9%
-genable-des... 46 mins       [....................]   2.1%
-巴士涂装设计         34 mins       [....................]   1.6%
-portfolio      17 mins       [....................]   0.8%
+genable-plugin 18 hrs 19 mins [#########...........]  46.9%
+anycast2.0     16 hrs 38 mins [#########...........]  42.6%
+anycast-flu... 2 hrs 12 mins [#...................]   5.7%
+巴士涂装设计         59 mins       [#...................]   2.5%
+portfolio      17 mins       [....................]   0.7%
+genable-des... 15 mins       [....................]   0.6%
 ```
 <!-- WAKATIME:END -->
 
