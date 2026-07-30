@@ -61,23 +61,23 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 38 hrs 8 mins
+Last 7 days: 39 hrs 55 mins
 
 Languages
-Image (svg)    31 hrs 20 mins [################....]  80.2%
-Markdown       3 hrs 24 mins [##..................]   8.7%
-HTML           1 hr 25 mins  [#...................]   3.6%
-JavaScript     1 hr 16 mins  [#...................]   3.3%
-Other          57 mins       [....................]   2.5%
-JSON           27 mins       [....................]   1.1%
+Image (svg)    31 hrs 14 mins [###############.....]  75.3%
+Markdown       3 hrs 29 mins [##..................]   8.4%
+Other          1 hr 35 mins  [#...................]   3.8%
+HTML           1 hr 25 mins  [#...................]   3.4%
+JavaScript     1 hr 16 mins  [#...................]   3.1%
+Python         50 mins       [....................]   2.0%
 
 Projects
-anycast2.0     32 hrs 12 mins [################....]  82.3%
-效果图            3 hrs 20 mins [##..................]   8.6%
-geometry pl... 1 hr 56 mins  [#...................]   5.0%
-ribbon-fade... 49 mins       [....................]   2.1%
-realtime-vo... 30 mins       [....................]   1.3%
-聊聊心理问题         10 mins       [....................]   0.5%
+anycast2.0     32 hrs 7 mins [###############.....]  77.4%
+效果图            3 hrs 20 mins [##..................]   8.1%
+anycast        1 hr 58 mins  [#...................]   4.8%
+geometry pl... 1 hr 39 mins  [#...................]   4.0%
+ribbon-fade... 49 mins       [....................]   2.0%
+hu             37 mins       [....................]   1.5%
 ```
 <!-- WAKATIME:END -->
 
