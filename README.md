@@ -61,18 +61,18 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 9 hrs 44 mins
+Last 7 days: 8 hrs 26 mins
 
 Languages
-Image (svg)    7 hrs 49 mins [################....]  79.2%
-Markdown       1 hr 3 mins   [##..................]  10.7%
-Dart           35 mins       [#...................]   6.0%
-HTML           16 mins       [#...................]   2.7%
-Other          8 mins        [....................]   1.4%
+Image (svg)    7 hrs 49 mins [##################..]  91.2%
+HTML           16 mins       [#...................]   3.1%
+Dart           11 mins       [....................]   2.3%
+Markdown       8 mins        [....................]   1.7%
+Other          8 mins        [....................]   1.6%
 
 Projects
-anycast        8 hrs 39 mins [##################..]  87.6%
-巴士涂装设计         1 hr 13 mins  [##..................]  12.4%
+anycast        8 hrs 1 min   [###################.]  93.5%
+巴士涂装设计         33 mins       [#...................]   6.5%
 ```
 <!-- WAKATIME:END -->
 
