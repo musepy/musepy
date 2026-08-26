@@ -61,22 +61,23 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 7 hrs 47 mins
+Last 7 days: 11 hrs 55 mins
 
 Languages
-JavaScript     1 hr 42 mins  [####................]  19.7%
-Image (svg)    1 hr 35 mins  [####................]  18.4%
-Python         1 hr 34 mins  [####................]  18.2%
-TypeScript     1 hr 27 mins  [###.................]  16.9%
-Other          52 mins       [##..................]  10.1%
-Markdown       44 mins       [##..................]   8.6%
+Image (svg)    3 hrs 53 mins [######..............]  29.2%
+JavaScript     2 hrs 17 mins [###.................]  17.2%
+Python         1 hr 55 mins  [###.................]  14.4%
+TypeScript     1 hr 27 mins  [##..................]  11.0%
+Other          1 hr 24 mins  [##..................]  10.5%
+Markdown       1 hr 14 mins  [##..................]   9.3%
 
 Projects
-portfolio      3 hrs 25 mins [########............]  39.6%
-bus-livery-... 3 hrs 24 mins [########............]  39.4%
-作品集包装          1 hr 31 mins  [####................]  17.6%
-Downloads      10 mins       [....................]   2.0%
-MoneyPrinte... 7 mins        [....................]   1.5%
+bus-livery-... 5 hrs 57 mins [#########...........]  44.7%
+portfolio      4 hrs 49 mins [#######.............]  36.2%
+作品集包装          1 hr 36 mins  [##..................]  12.0%
+Downloads      33 mins       [#...................]   4.2%
+cplx-creative  15 mins       [....................]   1.9%
+MoneyPrinte... 7 mins        [....................]   0.9%
 ```
 <!-- WAKATIME:END -->
 
