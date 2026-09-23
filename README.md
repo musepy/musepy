@@ -61,23 +61,23 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 8 hrs 13 mins
+Last 7 days: 7 hrs 14 mins
 
 Languages
-Image (svg)    2 hrs 7 mins  [####................]  22.4%
-Other          1 hr 18 mins  [###.................]  13.7%
-JavaScript     1 hr 13 mins  [###.................]  12.9%
-JSON           1 hr 4 mins   [##..................]  11.2%
-Markdown       45 mins       [##..................]   7.9%
-YAML           39 mins       [#...................]   7.0%
+JavaScript     1 hr 13 mins  [###.................]  14.9%
+Image (svg)    1 hr 8 mins   [###.................]  13.9%
+JSON           1 hr 4 mins   [###.................]  13.0%
+Other          59 mins       [##..................]  12.1%
+Markdown       45 mins       [##..................]   9.1%
+YAML           39 mins       [##..................]   8.1%
 
 Projects
-亚马逊视觉          5 hrs 34 mins [############........]  58.5%
-portfolio      1 hr 32 mins  [###.................]  16.2%
-牛碎肉煲           1 hr 4 mins   [##..................]  11.2%
-邮轮旅行资料         1 hr 1 min    [##..................]  10.7%
-劳动纠纷维权         18 mins       [#...................]   3.2%
+亚马逊视觉          4 hrs 35 mins [###########.........]  55.7%
+portfolio      1 hr 32 mins  [####................]  18.7%
+牛碎肉煲           1 hr 4 mins   [###.................]  13.0%
+邮轮旅行资料         1 hr 1 min    [##..................]  12.4%
 cplx-creative  0 secs        [....................]   0.1%
+聊聊心理问题         0 secs        [....................]   0.1%
 ```
 <!-- WAKATIME:END -->
 
