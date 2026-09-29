@@ -61,20 +61,15 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 4 hrs 19 mins
+Last 7 days: 50 mins
 
 Languages
-JSON           1 hr 3 mins   [#####...............]  22.8%
-JavaScript     53 mins       [####................]  19.2%
-Image (svg)    53 mins       [####................]  19.0%
-TypeScript     47 mins       [###.................]  17.1%
-CSS            27 mins       [##..................]   9.9%
-Other          20 mins       [#...................]   7.2%
+Image (svg)    50 mins       [###############.....]  74.1%
+Other          17 mins       [#####...............]  25.9%
 
 Projects
-亚马逊视觉          2 hrs 37 mins [###########.........]  56.4%
-邮轮旅行资料         1 hr 14 mins  [#####...............]  26.8%
-portfolio      47 mins       [###.................]  16.8%
+亚马逊视觉          59 mins       [#################...]  87.2%
+邮轮旅行资料         8 mins        [###.................]  12.8%
 ```
 <!-- WAKATIME:END -->
 
