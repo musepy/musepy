@@ -61,13 +61,15 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 40 mins
+Last 7 days: 5 hrs 3 mins
 
 Languages
-Image (svg)    40 mins       [####################] 100.0%
+Image (svg)    5 hrs 3 mins  [##################..]  90.6%
+Other          31 mins       [##..................]   9.4%
 
 Projects
-亚马逊视觉          40 mins       [####################] 100.0%
+亚马逊视觉          5 hrs 15 mins [###################.]  94.4%
+邮轮旅行资料         18 mins       [#...................]   5.6%
 ```
 <!-- WAKATIME:END -->
 
