@@ -64,14 +64,14 @@ My background is visual design, product interface work, photography, and design 
 Last 7 days: 11 hrs 59 mins
 
 Languages
-Image (svg)    10 hrs 56 mins [#############.......]  66.1%
-Other          4 hrs 34 mins [######..............]  27.6%
+Image (svg)    10 hrs 56 mins [#############.......]  65.4%
+Other          4 hrs 45 mins [######..............]  28.4%
 Swift          51 mins       [#...................]   5.1%
 HTML           11 mins       [....................]   1.1%
 
 Projects
-亚马逊视觉          12 hrs 26 mins [###############.....]  75.1%
-anycast        3 hrs 12 mins [####................]  19.4%
+亚马逊视觉          12 hrs 37 mins [###############.....]  75.4%
+anycast        3 hrs 12 mins [####................]  19.1%
 anycast2.0     25 mins       [#...................]   2.6%
 邮轮旅行资料         18 mins       [....................]   1.9%
 realtime-vo... 9 mins        [....................]   1.0%
