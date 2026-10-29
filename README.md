@@ -61,23 +61,23 @@ My background is visual design, product interface work, photography, and design 
 
 <!-- WAKATIME:START -->
 ```text
-Last 7 days: 15 hrs 34 mins
+Last 7 days: 11 hrs 26 mins
 
 Languages
-Markdown       4 hrs 38 mins [#####...............]  23.5%
-Other          4 hrs 11 mins [####................]  21.2%
-Swift          3 hrs 52 mins [####................]  19.6%
-Image (svg)    2 hrs 47 mins [###.................]  14.2%
-Python         1 hr 7 mins   [#...................]   5.7%
-JSON           1 hr 3 mins   [#...................]   5.4%
+Other          3 hrs 17 mins [####................]  22.4%
+Markdown       3 hrs         [####................]  20.4%
+Swift          3 hrs         [####................]  20.4%
+Image (svg)    2 hrs 19 mins [###.................]  15.8%
+Python         53 mins       [#...................]   6.1%
+JSON           44 mins       [#...................]   5.0%
 
 Projects
-anycast        9 hrs 28 mins [##########..........]  47.9%
-亚马逊视觉          5 hrs 23 mins [#####...............]  27.2%
-展厅比赛           1 hr 13 mins  [#...................]   6.2%
-视频剪辑           1 hr 11 mins  [#...................]   6.0%
-pengxu-work    37 mins       [#...................]   3.1%
-portfolio      20 mins       [....................]   1.7%
+anycast        5 hrs 35 mins [########............]  38.0%
+亚马逊视觉          4 hrs 13 mins [######..............]  28.7%
+展厅比赛           1 hr 13 mins  [##..................]   8.3%
+视频剪辑           1 hr 11 mins  [##..................]   8.1%
+pengxu-work    37 mins       [#...................]   4.2%
+portfolio      20 mins       [....................]   2.3%
 ```
 <!-- WAKATIME:END -->
 
